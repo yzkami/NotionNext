@@ -69,3 +69,4 @@ const BLOG = {
 }
 
 module.exports = BLOG
+THEME_SWITCH: process.env.NEXT_PUBLIC_THEME_SWITCH || true, // 是否显示切换主题按钮
